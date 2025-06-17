@@ -1,3 +1,3 @@
 #! /usr/bin/bash
-echo sudo apt update && apt upgrade
-s
+echo sudo apt update && sudo apt upgrade
+
